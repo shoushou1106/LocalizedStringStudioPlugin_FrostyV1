@@ -1,4 +1,4 @@
-﻿using BetterLocalizedStringPlugin.Extensions;
+﻿using LocalizedStringStudioPlugin.Extensions;
 using Frosty.Core.Attributes;
 using System.Reflection;
 using System.Runtime.InteropServices;
@@ -21,7 +21,7 @@ using System.Windows;
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("4b612468-9b6a-4304-88a5-055c3575eb3d")]
 
-[assembly: PluginDisplayName("Better Localized String Editor")]
+[assembly: PluginDisplayName("Localized String Studio")]
 [assembly: PluginAuthor("shoushou1106")]
 [assembly: PluginVersion("0.1.1")]
 

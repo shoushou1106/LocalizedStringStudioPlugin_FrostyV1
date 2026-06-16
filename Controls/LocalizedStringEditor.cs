@@ -1,5 +1,5 @@
-﻿using BetterLocalizedStringPlugin.Extensions;
-using BetterLocalizedStringPlugin.Windows;
+﻿using LocalizedStringStudioPlugin.Extensions;
+using LocalizedStringStudioPlugin.Windows;
 using Frosty.Controls;
 using Frosty.Core;
 using Frosty.Core.Controls;
@@ -19,7 +19,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
 
-namespace BetterLocalizedStringPlugin.Controls
+namespace LocalizedStringStudioPlugin.Controls
 {
     [TemplatePart(Name = PART_FilterType, Type = typeof(ComboBox))]
     [TemplatePart(Name = PART_Language, Type = typeof(ComboBox))]

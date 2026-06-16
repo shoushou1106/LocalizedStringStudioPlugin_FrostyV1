@@ -27,7 +27,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Threading;
 
-namespace BetterLocalizedStringPlugin.Windows
+namespace LocalizedStringStudioPlugin.Windows
 {
     public partial class ExportStringsWindow : FrostyDockableWindow, INotifyPropertyChanged
     {
