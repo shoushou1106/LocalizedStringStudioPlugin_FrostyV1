@@ -1,4 +1,7 @@
-# Frosty Better Localized String Plugin
+> [!NOTE]
+> Work in progress.
+
+# Better Localized String Plugin for Frosty v1
 A work in progress, terrible and buggy. But works fine.
 
 # Install
