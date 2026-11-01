@@ -2,7 +2,7 @@
 > Work in progress.
 
 # Localized String Studio Plugin for Frosty v1
-Editor only plugin for [Frosty Toolsuite v1](https://github.com/CadeEvs/FrostyToolsuite). A part of my [Frosty v1 Localization Experience](https://github.com/users/shoushou1106/projects/3). Work in progress, terrible and buggy. But works fine.
+Editor only plugin for [Frosty Toolsuite v1](https://github.com/CadeEvs/FrostyToolsuite), as a part of my [Frosty v1 Localization Experience](https://github.com/users/shoushou1106/projects/3). Work in progress, terrible and buggy. But works fine.
 
 # Install
 Download from releases, extract and put all files in your Frosty Editor's Plugin folder.
